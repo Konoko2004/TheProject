@@ -1,3 +1,3 @@
 # Demo
 
-Some Description.
+This is just an experimental project.
